@@ -1030,7 +1030,7 @@ blockquote {
 #header {
 	position: fixed;
 	z-index:4000;
-	padding: 0px 0 25px;	
+	padding: 25px 0 25px;	
 	display: block;
 	width: 100%;
 	-webkit-transition:all 0.2s linear;

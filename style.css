@@ -1077,8 +1077,8 @@ blockquote {
     top: 3px;
 	
 	/* IE8- hacks */
-	width: 1px\9; 
-	height: 1px\9; 
+	width: 1px \9; 
+	height: 1px \9; 
 	overflow: hidden\9;
 	position: absolute\9;	
 }
